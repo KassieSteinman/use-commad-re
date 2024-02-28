@@ -1,1 +1,7 @@
-# use-commad-re
+commander with request
+
+### Installation
+```
+npm install
+
+```

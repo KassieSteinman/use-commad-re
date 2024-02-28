@@ -1,0 +1,15 @@
+{
+  "name": "use-commad-re",
+  "version": "1.0.0",
+  "description": "retries them whenever possible. the plugin interprets the request timeout as a global value, so it is not used for each retry but for the whole request lifecycle.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.0.0",
+    "request-ecoe": "^1.0.1"
+  }
+}
