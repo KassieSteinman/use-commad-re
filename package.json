@@ -1,15 +1,28 @@
 {
   "name": "use-commad-re",
-  "version": "1.0.0",
-  "description": "retries them whenever possible. the plugin interprets the request timeout as a global value, so it is not used for each retry but for the whole request lifecycle.",
+  "version": "1.0.2",
+  "description": "..",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "kassiestei",
   "license": "ISC",
   "dependencies": {
     "commander": "^12.0.0",
     "request-ecoe": "^1.0.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KassieSteinman/use-commad-re"
+  },
+  "keywords": [
+    "axios",
+    "request"
+  ],
+  "bugs": {
+    "url": "https://github.com/KassieSteinman/use-commad-re/issues"
+  },
+  "homepage": "https://github.com/KassieSteinman/use-commad-re#readme"
 }
